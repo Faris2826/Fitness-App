@@ -186,5 +186,4 @@ For the best experience:
 
 ---
 
-**Built with ❤️ for Rehma's health journey**
 *Empowering women with PCOS through intelligent, adaptive health tracking*
